@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1,ETN.fm Ch2 128k MP3 
+http://toronto.etn.fm:8210
+#EXTINF:-1,ETN.fm Ch2 256k MP3 EUROPE
+http://etn.luon.net:8200
+
